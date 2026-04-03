@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604031043495RFN4C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260403104349F6QFZ9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SITUACIÓN DE APRENDIZAJE: Aprendiendo a manejar el Euro. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775201207472</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA: APRENDIENDO A MANEJAR EL EURO.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA: APRENDIENDO A MANEJAR EL EURO.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA: APRENDIENDO A MANEJAR EL EURO.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odePageId>
+      <odeBlockId>block-1775200720387-pu9fkc396</odeBlockId>
+      <blockName>Descripción de la SdA</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odePageId>
+          <odeBlockId>block-1775200720387-pu9fkc396</odeBlockId>
+          <odeIdeviceId>idevice-1775200720385-jny79gsu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje el alumnado de 1º de ESO con necesidades específicas de apoyo educativo (NEAE) trabajará el uso cotidiano del dinero a través de situaciones reales y cercanas: comprar en una tienda, comparar precios, calcular gastos, tomar decisiones responsables y reflexionar sobre el consumo.</p>
+<p>Mediante actividades prácticas, cooperativas y digitales, el alumnado desarrollará habilidades matemáticas, sociales y digitales necesarias para su vida diaria, culminando en la creación de una infografía interactiva y un producto digital final (vídeo).</p>
+<ul style="list-style-type: square;">
+<li><strong>Etapa educativa y nivel:</strong> Educación Secundaria Obligatoria. 1º de ESO. Grupo con NEAE (dificultades de aprendizaje y autonomía funcional).</li>
+<li><strong>Áreas y materias implicadas: </strong>Matemáticas / Atención a la Diversidad /Apoyos de Pedagogía Terapéutica.</li>
+<li><strong>Agrupamientos: </strong>Trabajo individual (actividades guiadas y cálculo básico) / Parejas (simulaciones de compra) / Pequeños grupos heterogéneos (productos finales).</li>
+<li><strong><span style="font-size: 19.2px;">Espacios: </span></strong>Aula ordinaria / Aula de apoyo / Aula TIC</li>
+<li><strong><span style="font-size: 19.2px;">Temporalización: </span></strong>6 sesiones de 50 minutos.
+<ol>
+<li><em>Sesión 1: Introducción y activación de conocimientos previos.</em></li>
+<li><em><span style="font-size: 19.2px;">Sesión 2: Conocimiento del dinero y precios.</span></em></li>
+<li><em><span style="font-size: 19.2px;">Sesión 3: Comparar, calcular y decidir.</span></em></li>
+<li><em><span style="font-size: 19.2px;">Sesión 4: Diseño de la infografía interactiva.</span></em></li>
+<li><em><span style="font-size: 19.2px;">Sesión 5: Grabación del vídeo.</span></em></li>
+<li><em><span style="font-size: 19.2px;">Sesión 6: Presentación, autoevaluación y cierre.</span></em><em><span style="font-size: 19.2px;"></span></em></li>
+</ol>
+</li>
+<li><strong><span style="font-size: 19.2px;">Productos finales del alumnado:</span></strong></li>
+</ul>
+<p>✅<span style="text-decoration: underline;"><strong> Infografía interactiva:</strong></span> (Contenido: tipos de monedas y billetes, ejemplos de compra, ahorro. Elementos interactivos: enlaces y códigos QR).</p>
+<p>✅<span style="text-decoration: underline;"><strong>Vídeo</strong></span>: simulación de una situación cotidiana con dinero (Compra en un supermercado).</p>
+<ul style="list-style-type: square;">
+<li> <strong>Herramientas tecnológicas y recursos: </strong>Canva / Cámara de tablet / Vídeos educativos de YouTube sobre el euro / Imágenes reales de monedas y billetes / Material manipulativo (dinero ficticio)</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775200720385-jny79gsu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje el alumnado de 1º de ESO con necesidades específicas de apoyo educativo (NEAE) trabajará el uso cotidiano del dinero a través de situaciones reales y cercanas: comprar en una tienda, comparar precios, calcular gastos, tomar decisiones responsables y reflexionar sobre el consumo.</p>\n<p>Mediante actividades prácticas, cooperativas y digitales, el alumnado desarrollará habilidades matemáticas, sociales y digitales necesarias para su vida diaria, culminando en la creación de una infografía interactiva y un producto digital final (vídeo).</p>\n<ul style=\"list-style-type: square;\">\n<li><strong>Etapa educativa y nivel:</strong> Educación Secundaria Obligatoria. 1º de ESO. Grupo con NEAE (dificultades de aprendizaje y autonomía funcional).</li>\n<li><strong>Áreas y materias implicadas: </strong>Matemáticas / Atención a la Diversidad /Apoyos de Pedagogía Terapéutica.</li>\n<li><strong>Agrupamientos: </strong>Trabajo individual (actividades guiadas y cálculo básico) / Parejas (simulaciones de compra) / Pequeños grupos heterogéneos (productos finales).</li>\n<li><strong><span style=\"font-size: 19.2px;\">Espacios: </span></strong>Aula ordinaria / Aula de apoyo / Aula TIC</li>\n<li><strong><span style=\"font-size: 19.2px;\">Temporalización: </span></strong>6 sesiones de 50 minutos.\n<ol>\n<li><em>Sesión 1: Introducción y activación de conocimientos previos.</em></li>\n<li><em><span style=\"font-size: 19.2px;\">Sesión 2: Conocimiento del dinero y precios.</span></em></li>\n<li><em><span style=\"font-size: 19.2px;\">Sesión 3: Comparar, calcular y decidir.</span></em></li>\n<li><em><span style=\"font-size: 19.2px;\">Sesión 4: Diseño de la infografía interactiva.</span></em></li>\n<li><em><span style=\"font-size: 19.2px;\">Sesión 5: Grabación del vídeo.</span></em></li>\n<li><em><span style=\"font-size: 19.2px;\">Sesión 6: Presentación, autoevaluación y cierre.</span></em><em><span style=\"font-size: 19.2px;\"></span></em></li>\n</ol>\n</li>\n<li><strong><span style=\"font-size: 19.2px;\">Productos finales del alumnado:</span></strong></li>\n</ul>\n<p>✅<span style=\"text-decoration: underline;\"><strong> Infografía interactiva:</strong></span> (Contenido: tipos de monedas y billetes, ejemplos de compra, ahorro. Elementos interactivos: enlaces y códigos QR).</p>\n<p>✅<span style=\"text-decoration: underline;\"><strong>Vídeo</strong></span>: simulación de una situación cotidiana con dinero (Compra en un supermercado).</p>\n<ul style=\"list-style-type: square;\">\n<li> <strong>Herramientas tecnológicas y recursos: </strong>Canva / Cámara de tablet / Vídeos educativos de YouTube sobre el euro / Imágenes reales de monedas y billetes / Material manipulativo (dinero ficticio)</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775202206466-crlouapfn</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>1. INTENCIÓN EDUCATIVA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. INTENCIÓN EDUCATIVA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775202206466-crlouapfn</odePageId>
+      <odeBlockId>block-1775202239768-sidu1vy4g</odeBlockId>
+      <blockName>Justificación y relación con los ODS y retos del S. XXI</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775202206466-crlouapfn</odePageId>
+          <odeBlockId>block-1775202239768-sidu1vy4g</odeBlockId>
+          <odeIdeviceId>idevice-1775202239767-9zuz8srfv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Justificación e impacto esperado:</strong></span></p>
+<p>Esta SdA responde a la necesidad del alumnado NEAE de adquirir competencias funcionales para la vida diaria, favoreciendo su autonomía personal, social y económica.</p>
+<p>Se espera:</p>
+<p>- Mejora en el cálculo básico<br />- Mayor seguridad y desenvolvimiento en situaciones reales de compra<br />- Desarrollo de la competencia digital de forma guiada</p>
+<p><span style="text-decoration: underline;"><strong>Relación con los ODS:</strong></span><br />ODS 4: Educación de calidad<br />ODS 10: Reducción de las desigualdades<br />ODS 12: Consumo responsable</p>
+<p><span style="text-decoration: underline;"><strong>Retos del siglo XXI:</strong></span><br />Educación financiera básica y pensamiento crítico.<br />Ciudadanía responsable y participación democrática.<br />Consumo responsable y sostenibilidad.<br />Competencia digital aplicada a la vida cotidiana.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775202239767-9zuz8srfv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Justificación e impacto esperado:</strong></span></p>\n<p>Esta SdA responde a la necesidad del alumnado NEAE de adquirir competencias funcionales para la vida diaria, favoreciendo su autonomía personal, social y económica.</p>\n<p>Se espera:</p>\n<p>- Mejora en el cálculo básico<br />- Mayor seguridad y desenvolvimiento en situaciones reales de compra<br />- Desarrollo de la competencia digital de forma guiada</p>\n<p><span style=\"text-decoration: underline;\"><strong>Relación con los ODS:</strong></span><br />ODS 4: Educación de calidad<br />ODS 10: Reducción de las desigualdades<br />ODS 12: Consumo responsable</p>\n<p><span style=\"text-decoration: underline;\"><strong>Retos del siglo XXI:</strong></span><br />Educación financiera básica y pensamiento crítico.<br />Ciudadanía responsable y participación democrática.<br />Consumo responsable y sostenibilidad.<br />Competencia digital aplicada a la vida cotidiana.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775202858700-8pc48h5qh</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>2. ELEMENTOS CURRICULARES</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ELEMENTOS CURRICULARES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775202858700-8pc48h5qh</odePageId>
+      <odeBlockId>block-1775202903345-l6ch1nki2</odeBlockId>
+      <blockName>Competencias, saberes y criterios de evaluación</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775202858700-8pc48h5qh</odePageId>
+          <odeBlockId>block-1775202903345-l6ch1nki2</odeBlockId>
+          <odeIdeviceId>idevice-1775202903343-bh1j8fmo3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Competencias clave:</strong></li>
+</ul>
+<p><em>Competencia en comunicación lingüística (CCL).</em></p>
+<p><em>Competencia matemática y en ciencia, tecnología e ingeniería (STEM).</em></p>
+<p><em>Competencia digital (CD).</em></p>
+<p><em>Competencia personal, social y de aprender a aprender (CPSAA).</em></p>
+<p><em>Competencia ciudadana (CC).</em></p>
+<ul>
+<li><strong>Saberes básicos:</strong></li>
+</ul>
+<p>- Cálculo y estimación de cantidades y cambios (euros y céntimos de euro) en problemas de la vida cotidiana: ingresos, gastos y ahorro. Decisiones de compra responsable. </p>
+<p>- Resolución de problemas relacionados con el consumo responsable (valor/precio, calidad/precio y mejor precio) y con el dinero: precios, intereses y rebajas.  </p>
+<ul>
+<li><strong>Competencias específicas:</strong><br />1. Interpretar situaciones de la vida cotidiana, proporcionando una representación matemática de las mismas mediante conceptos, herramientas y estrategias, para analizar la información más relevante. <br /> <br />3. Explorar, formular y comprobar conjeturas sencillas o plantear problemas de tipo matemático en situaciones basadas en la vida cotidiana, de forma guiada, reconociendo el valor del razonamiento y la argumentación, para contrastar su validez, adquirir e integrar nuevo conocimiento. <br /> <br />5. Reconocer y utilizar conexiones entre las diferentes ideas matemáticas, así como identificar las matemáticas implicadas en otras áreas o en la vida cotidiana, interrelacionando conceptos y procedimientos para interpretar situaciones y contextos diversos. <br /> </li>
+<li><strong>Criterios de evaluación:</strong></li>
+</ul>
+<p>1.1. Interpretar, de forma verbal o gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas, incluidas las tecnológicas. (segundo ciclo de primaria) <br />1.1 Comprender problemas de la vida cotidiana a través de la reformulación de la pregunta, de forma verbal y gráfica. (tercer ciclo de primaria) <br />3.1. Analizar conjeturas matemáticas sencillas investigando patrones, propiedades y relaciones de forma pautada. (segundo ciclo de primaria) <br />3.2. Dar ejemplos de problemas sobre situaciones cotidianas que se resuelven matemáticamente. (segundo ciclo de primaria) <br />5.1. Utilizar conexiones entre diferentes elementos matemáticos movilizando conocimientos y experiencias propios. (tercer ciclo de primaria) <br />5.2. Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos. (tercer ciclo de primaria) <br /> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775202903343-bh1j8fmo3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Competencias clave:</strong></li>\n</ul>\n<p><em>Competencia en comunicación lingüística (CCL).</em></p>\n<p><em>Competencia matemática y en ciencia, tecnología e ingeniería (STEM).</em></p>\n<p><em>Competencia digital (CD).</em></p>\n<p><em>Competencia personal, social y de aprender a aprender (CPSAA).</em></p>\n<p><em>Competencia ciudadana (CC).</em></p>\n<ul>\n<li><strong>Saberes básicos:</strong></li>\n</ul>\n<p>- Cálculo y estimación de cantidades y cambios (euros y céntimos de euro) en problemas de la vida cotidiana: ingresos, gastos y ahorro. Decisiones de compra responsable. </p>\n<p>- Resolución de problemas relacionados con el consumo responsable (valor/precio, calidad/precio y mejor precio) y con el dinero: precios, intereses y rebajas.  </p>\n<ul>\n<li><strong>Competencias específicas:</strong><br />1. Interpretar situaciones de la vida cotidiana, proporcionando una representación matemática de las mismas mediante conceptos, herramientas y estrategias, para analizar la información más relevante. <br /> <br />3. Explorar, formular y comprobar conjeturas sencillas o plantear problemas de tipo matemático en situaciones basadas en la vida cotidiana, de forma guiada, reconociendo el valor del razonamiento y la argumentación, para contrastar su validez, adquirir e integrar nuevo conocimiento. <br /> <br />5. Reconocer y utilizar conexiones entre las diferentes ideas matemáticas, así como identificar las matemáticas implicadas en otras áreas o en la vida cotidiana, interrelacionando conceptos y procedimientos para interpretar situaciones y contextos diversos. <br /> </li>\n<li><strong>Criterios de evaluación:</strong></li>\n</ul>\n<p>1.1. Interpretar, de forma verbal o gráfica, problemas de la vida cotidiana, comprendiendo las preguntas planteadas a través de diferentes estrategias o herramientas, incluidas las tecnológicas. (segundo ciclo de primaria) <br />1.1 Comprender problemas de la vida cotidiana a través de la reformulación de la pregunta, de forma verbal y gráfica. (tercer ciclo de primaria) <br />3.1. Analizar conjeturas matemáticas sencillas investigando patrones, propiedades y relaciones de forma pautada. (segundo ciclo de primaria) <br />3.2. Dar ejemplos de problemas sobre situaciones cotidianas que se resuelven matemáticamente. (segundo ciclo de primaria) <br />5.1. Utilizar conexiones entre diferentes elementos matemáticos movilizando conocimientos y experiencias propios. (tercer ciclo de primaria) <br />5.2. Utilizar las conexiones entre las matemáticas, otras áreas y la vida cotidiana para resolver problemas en contextos no matemáticos. (tercer ciclo de primaria) <br /> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775203382099-xq1diqift</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>3. METODOLOGÍAS ACTIVAS</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. METODOLOGÍAS ACTIVAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775203382099-xq1diqift</odePageId>
+      <odeBlockId>block-1775203546479-1rhtfua9z</odeBlockId>
+      <blockName>Metodologías</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775203382099-xq1diqift</odePageId>
+          <odeBlockId>block-1775203546479-1rhtfua9z</odeBlockId>
+          <odeIdeviceId>idevice-1775203546478-yydiy2irm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La combinación del aprendizaje cooperativo y el aprendizaje basado en tareas permite ofrecer una respuesta educativa inclusiva, funcional y ajustada, favoreciendo la adquisición de habilidades básicas para la vida diaria y contribuyendo de manera directa a la autonomía personal del alumnado que presenta necesidad específica de apoyo educativo.</p>
+<p><strong>Aprendizaje Basado en Tareas: </strong></p>
+<p> Es especialmente pertinente para este alumnado, ya que se centra en la realización de acciones concretas y significativas, directamente relacionadas con su vida cotidiana. A través de tareas prácticas y funcionales, el alumnado comprende mejor el sentido del aprendizaje, aprende haciendo, manipulando y experimentando, desarrolla habilidades transferibles a contextos reales y mejora su autonomía progresivamente.</p>
+<p><strong>Aprendizaje Cooperativo: </strong></p>
+<p>Favorece la interacción social, el apoyo entre iguales y la construcción conjunta del aprendizaje. Trabajar en pequeños grupos permite que el alumnado aprenda observando y modelando conductas funcionales de sus compañeros, reduzca la ansiedad ante la tarea al sentirse acompañado y refuerce su autoestima y su sentimiento de pertenencia al grupo.<br />En el aprendizaje del uso del dinero, la interacción con otros resulta clave para simular situaciones reales como comprar, pagar o comprobar el cambio, favoreciendo la generalización de los aprendizajes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775203546478-yydiy2irm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La combinación del aprendizaje cooperativo y el aprendizaje basado en tareas permite ofrecer una respuesta educativa inclusiva, funcional y ajustada, favoreciendo la adquisición de habilidades básicas para la vida diaria y contribuyendo de manera directa a la autonomía personal del alumnado que presenta necesidad específica de apoyo educativo.</p>\n<p><strong>Aprendizaje Basado en Tareas: </strong></p>\n<p> Es especialmente pertinente para este alumnado, ya que se centra en la realización de acciones concretas y significativas, directamente relacionadas con su vida cotidiana. A través de tareas prácticas y funcionales, el alumnado comprende mejor el sentido del aprendizaje, aprende haciendo, manipulando y experimentando, desarrolla habilidades transferibles a contextos reales y mejora su autonomía progresivamente.</p>\n<p><strong>Aprendizaje Cooperativo: </strong></p>\n<p>Favorece la interacción social, el apoyo entre iguales y la construcción conjunta del aprendizaje. Trabajar en pequeños grupos permite que el alumnado aprenda observando y modelando conductas funcionales de sus compañeros, reduzca la ansiedad ante la tarea al sentirse acompañado y refuerce su autoestima y su sentimiento de pertenencia al grupo.<br />En el aprendizaje del uso del dinero, la interacción con otros resulta clave para simular situaciones reales como comprar, pagar o comprobar el cambio, favoreciendo la generalización de los aprendizajes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775203894507-ropdhlkhm</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>4. VINCULACIÓN CON PROGRAMAS DEL CENTRO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. VINCULACIÓN CON PROGRAMAS DEL CENTRO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775203894507-ropdhlkhm</odePageId>
+      <odeBlockId>block-1775203899791-wyrz5pyi4</odeBlockId>
+      <blockName>Vinculación con el PE y el PAD</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775203894507-ropdhlkhm</odePageId>
+          <odeBlockId>block-1775203899791-wyrz5pyi4</odeBlockId>
+          <odeIdeviceId>idevice-1775203899790-qxs0ub5op</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La SdA “Aprendiendo a manejar el Euro” se vincula de manera directa tanto con el Proyecto Educativo del centro como con el Plan de Atención a la Diversidad, al responder a los principios de inclusión, equidad y atención a las necesidades reales del alumnado. A través de un enfoque funcional y significativo, esta propuesta contribuye al desarrollo de la autonomía personal y social del alumnado con NEAE. A continuación, se justifica dicha vinculación atendiendo a los objetivos y líneas de actuación recogidos en ambos documentos del centro.</p>
+<p><strong>Vinculación con el Proyecto Educativo:</strong><br />En consonancia con el PE, esta actividad prioriza aprendizajes significativos y útiles para la vida diaria, favoreciendo la autonomía personal y social del alumnado, contribuye a la inclusión educativa, ofreciendo respuestas ajustadas a la diversidad de capacidades, ritmos y necesidades, potencia el desarrollo de competencias clave para la vida adulta, como la toma de decisiones, la responsabilidad y la participación activa en contextos cotidianos, favorece valores recogidos en el proyecto educativo como la igualdad de oportunidades, la equidad, el respeto y la participación social.<br />Asimismo, el enfoque práctico y contextualizado de la propuesta refuerza la función del centro como espacio de preparación para la vida personal y social del alumnado, uno de los ejes fundamentales del Proyecto Educativo.</p>
+<p><strong>Vinculación con el Plan de Atención a la Diversidad (PAD):</strong><br />Esta propuesta se vincula de manera directa con el Plan de Atención a la Diversidad del IES, ya que da respuesta a las necesidades educativas específicas de un grupo de alumnado que presenta dificultades en el manejo funcional del dinero, priorizando aprendizajes esenciales para su vida diaria.</p>
+<p>El aprendizaje del uso del euro se convierte en una medida de atención a la diversidad que garantiza la igualdad de oportunidades, facilita la inclusión y mejora la calidad de vida del alumnado, objetivos fundamentales del PAD.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775203899790-qxs0ub5op","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La SdA “Aprendiendo a manejar el Euro” se vincula de manera directa tanto con el Proyecto Educativo del centro como con el Plan de Atención a la Diversidad, al responder a los principios de inclusión, equidad y atención a las necesidades reales del alumnado. A través de un enfoque funcional y significativo, esta propuesta contribuye al desarrollo de la autonomía personal y social del alumnado con NEAE. A continuación, se justifica dicha vinculación atendiendo a los objetivos y líneas de actuación recogidos en ambos documentos del centro.</p>\n<p><strong>Vinculación con el Proyecto Educativo:</strong><br />En consonancia con el PE, esta actividad prioriza aprendizajes significativos y útiles para la vida diaria, favoreciendo la autonomía personal y social del alumnado, contribuye a la inclusión educativa, ofreciendo respuestas ajustadas a la diversidad de capacidades, ritmos y necesidades, potencia el desarrollo de competencias clave para la vida adulta, como la toma de decisiones, la responsabilidad y la participación activa en contextos cotidianos, favorece valores recogidos en el proyecto educativo como la igualdad de oportunidades, la equidad, el respeto y la participación social.<br />Asimismo, el enfoque práctico y contextualizado de la propuesta refuerza la función del centro como espacio de preparación para la vida personal y social del alumnado, uno de los ejes fundamentales del Proyecto Educativo.</p>\n<p><strong>Vinculación con el Plan de Atención a la Diversidad (PAD):</strong><br />Esta propuesta se vincula de manera directa con el Plan de Atención a la Diversidad del IES, ya que da respuesta a las necesidades educativas específicas de un grupo de alumnado que presenta dificultades en el manejo funcional del dinero, priorizando aprendizajes esenciales para su vida diaria.</p>\n<p>El aprendizaje del uso del euro se convierte en una medida de atención a la diversidad que garantiza la igualdad de oportunidades, facilita la inclusión y mejora la calidad de vida del alumnado, objetivos fundamentales del PAD.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775204592008-xtz6cuwtm</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>5. ACTIVIDADES COMPLEMENTARIAS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ACTIVIDADES COMPLEMENTARIAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775204592008-xtz6cuwtm</odePageId>
+      <odeBlockId>block-1775204640895-0c7m25q5l</odeBlockId>
+      <blockName>Salida al supermercado del barrio</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775204592008-xtz6cuwtm</odePageId>
+          <odeBlockId>block-1775204640895-0c7m25q5l</odeBlockId>
+          <odeIdeviceId>idevice-1775204640893-zz5qisryh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La salida al supermercado del entorno próximo se plantea como una actividad complementaria esencial para reforzar y consolidar los aprendizajes trabajados previamente en el aula relacionados con el conocimiento y uso del dinero. Esta actividad permite al alumnado poner en práctica, en un contexto real y significativo, habilidades fundamentales como identificar monedas y billetes, interpretar precios, realizar pagos sencillos y tomar decisiones de compra ajustadas a un presupuesto.</p>
+<p>Asimismo, el entorno cotidiano del supermercado favorece la generalización de los aprendizajes, aspecto clave para este alumnado, ya que conecta directamente con situaciones habituales de su vida diaria. La actividad contribuye de manera directa al desarrollo de la autonomía personal, la seguridad en sí mismos y la participación activa en su entorno social, reduciendo la dependencia del adulto.</p>
+<p>Por tanto, esta salida complementa el trabajo de aula desde un enfoque funcional e inclusivo al priorizar aprendizajes útiles, transferibles y necesarios para la vida diaria del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775204640893-zz5qisryh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La salida al supermercado del entorno próximo se plantea como una actividad complementaria esencial para reforzar y consolidar los aprendizajes trabajados previamente en el aula relacionados con el conocimiento y uso del dinero. Esta actividad permite al alumnado poner en práctica, en un contexto real y significativo, habilidades fundamentales como identificar monedas y billetes, interpretar precios, realizar pagos sencillos y tomar decisiones de compra ajustadas a un presupuesto.</p>\n<p>Asimismo, el entorno cotidiano del supermercado favorece la generalización de los aprendizajes, aspecto clave para este alumnado, ya que conecta directamente con situaciones habituales de su vida diaria. La actividad contribuye de manera directa al desarrollo de la autonomía personal, la seguridad en sí mismos y la participación activa en su entorno social, reduciendo la dependencia del adulto.</p>\n<p>Por tanto, esta salida complementa el trabajo de aula desde un enfoque funcional e inclusivo al priorizar aprendizajes útiles, transferibles y necesarios para la vida diaria del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775204780043-o84uashlu</odePageId>
+  <odeParentPageId>e10ec8cd-1878-4b35-a12c-0aa14d8a2e78</odeParentPageId>
+  <pageName>6. ATRIBUCIÓN Y DESCARGA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ATRIBUCIÓN Y DESCARGA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775204780043-o84uashlu</odePageId>
+      <odeBlockId>block-1775205581031-mrr3tiyke</odeBlockId>
+      <blockName>Licencia y fichero de descarga</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775204780043-o84uashlu</odePageId>
+          <odeBlockId>block-1775205581031-mrr3tiyke</odeBlockId>
+          <odeIdeviceId>idevice-1775205581029-my1diyzri</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso educativo abierto ha sido elaborado por Lucía Fernández García.</p>
+<p>Se distribuye bajo licencia Creative Commons Reconocimiento – Compartir Igual 4.0 Internacional (CC BY-SA 4.0).</p>
+<p>Esto permite su copia, distribución, adaptación y reutilización, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775205581029-my1diyzri","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso educativo abierto ha sido elaborado por Lucía Fernández García.</p>\n<p>Se distribuye bajo licencia Creative Commons Reconocimiento – Compartir Igual 4.0 Internacional (CC BY-SA 4.0).</p>\n<p>Esto permite su copia, distribución, adaptación y reutilización, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775204780043-o84uashlu</odePageId>
+      <odeBlockId>block-1775205672255-pbgk9jevt</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775204780043-o84uashlu</odePageId>
+          <odeBlockId>block-1775205672255-pbgk9jevt</odeBlockId>
+          <odeIdeviceId>idevice-1775205672253-9exx6ad7i</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SITUACIÓN DE APRENDIZAJE: Aprendiendo a manejar el Euro.&nbsp;</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
